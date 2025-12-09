@@ -13,7 +13,6 @@ void main() {
   Set<String> day2 = {'Tuhin', 'Ahmed', 'Al-Amin',};
   print('All student:$allStudent');
 
-  print('My New Commit');
   //Day1 & 2 present student
   print('Day-1 Present:$day1');
   print("Day-2 Preset:$day2");
