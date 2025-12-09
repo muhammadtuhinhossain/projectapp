@@ -13,6 +13,5 @@ void main(){
   city.add('Rajshahi');
   city.add('Dhaka');
   print(city);
-
 }
 
